@@ -1,0 +1,4 @@
+rootProject.name = 'boot-community-web-rest'
+include 'data-rest'
+include 'rest-web'
+
